@@ -1,0 +1,34 @@
+Admin Task
+	_CreateInsuranceProduct
+Setup Task
+	 _CreateMedicalEligibility
+	_CreateListDependant
+	_CreatePlanReport
+Customers Services
+	_CreateBranches
+	_CreateCase
+	_CreateQualityAssurance
+Grouplife
+	_CreateGroupLifeCover
+Quotation Management
+	_CreateQuoteListing
+	_CreatePolicyListing
+Scheme Management
+	_CreateDrCrInvoice
+Enrollment
+	_CreateEnrollment
+	_CreateEnrolleProcessForm
+NB-> created a inserting function but unkown table
+Finance
+	_CreateGeneralLedger
+	_CreateGeneralPv
+	 _CreatePremiumReceipt
+	_CreateGeneralReceipt
+	_CreateDrCrInvoiced
+
+Management Report
+	_CreateGroupReport
+	_CreateBillingReport
+Claim
+	_CreateClaimOffer
+	_CreateClaimsPaidby
